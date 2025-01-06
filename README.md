@@ -53,7 +53,7 @@
 <p>
   📈 <strong>Featured Projects</strong>:
   <ul>
-    <li><a href="link-do-projeto">Meu Bolso</a>: A personal and/or business finance management application, being developed using pure Java on the back-end and Dart and Flutter (framework) on the front-end.</li>
+    <li><a href="https://github.com/NataliaFurlan/meu_bolso">Meu Bolso</a>: A personal and/or business finance management application, being developed using pure Java on the back-end and Dart and Flutter (framework) on the front-end.</li>
   </ul>
 </p>
 
@@ -73,7 +73,13 @@
   <a href="mailto:nataliafurlan88@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" style="margin-bottom: 5px; border-radius: 5px;">
   </a>
+
+  <a href="https://www.instagram.com/nataliacardosofurlan/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%2300acee.svg?color=E4405F&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin-bottom: 5px; border-radius: 5px;">
+  </a>
+
 </div>
+
 
 <h2>
     <strong>GitHub Stats</strong>:
