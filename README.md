@@ -80,29 +80,6 @@
 
 </div>
 
-
-<h2>
-    <strong>GitHub Stats</strong>:
-</h2>
-
-<div>
-  <a href="https://github.com/NataliaFurlan" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=NataliaFurlan&show_icons=true&theme=dracula" alt="GitHub Stats" style="margin-bottom: 20px; border-radius: 5px;">
-  </a>
-
-  <h></h>
-
-  <a href="https://github.com/NataliaFurlan" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaFurlan&show_icons=true&theme=dracula" alt="Top Langs" style="margin-bottom: 20px; border-radius: 5px;">
-  </a>
-
-  <h></h>
-
-  <a href="https://github.com/NataliaFurlan" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NataliaFurlan&theme=dracula" alt="Streak" style="margin-bottom: 20px; border-radius: 5px;">
-  </a>
-</div>
-
 <p> 
 <h2>
     <strong>Activity Graph</strong>:
