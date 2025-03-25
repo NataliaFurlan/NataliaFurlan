@@ -37,7 +37,7 @@
   <li><strong>Languages, Frameworks & Databases:</strong> 
     <p></p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgresql,react,angular,dart,flutter,html,css" />
+      <img src="https://skillicons.dev/icons?i=java,postgresql,react,angular,dart,flutter,html,css" />
     </a>
   </li>
 </ul>
@@ -45,9 +45,9 @@
 <p>
   💡 <strong>Interests</strong>:
   <ul>
-    <li>Backend Development (Java, Spring Boot, APIs REST)</li>
+    <li>Backend Development (Java, Spring Boot)</li>
     <li>Software Architecture & Scalable Systems</li>
-    <li>Web & Mobile Development (React, Flutter, Dart)</li>
+    <li>Web & Mobile Development (Flutter, Dart, JavaScript)</li>
     <li>Database Design & Optimization (PostgreSQL, MySQL)</li>
   </ul>
 </p>
@@ -57,7 +57,7 @@
   <ul>
     <li>
       <a href="https://github.com/NataliaFurlan/meu_bolso">Meu Bolso</a> - A personal and business finance management app.  
-      <br>🔹 Backend: Java (Spring Boot)  
+      <br>🔹 Backend: Java
       <br>🔹 Frontend: Dart & Flutter  
       <br>🔹 Features: Expense tracking, income management, and real-time data visualization.  
     </li>
