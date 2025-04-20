@@ -37,7 +37,7 @@
   <li><strong>Languages, Frameworks & Databases:</strong> 
     <p></p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,postgresql,react,angular,dart,flutter,html,css" />
+      <img src="https://skillicons.dev/icons?i=java,postgresql,spring-boot,dart,flutter,html,css" />
     </a>
   </li>
 </ul>
